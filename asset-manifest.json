@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/veterans-capdev-program-budget/static/css/main.9703c7af.css",
+    "main.js": "/veterans-capdev-program-budget/static/js/main.c2966dab.js",
+    "index.html": "/veterans-capdev-program-budget/index.html",
+    "main.9703c7af.css.map": "/veterans-capdev-program-budget/static/css/main.9703c7af.css.map",
+    "main.c2966dab.js.map": "/veterans-capdev-program-budget/static/js/main.c2966dab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9703c7af.css",
+    "static/js/main.c2966dab.js"
+  ]
+}
