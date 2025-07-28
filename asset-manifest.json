@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/veterans-capdev-program-budget/static/css/main.9703c7af.css",
-    "main.js": "/veterans-capdev-program-budget/static/js/main.c2966dab.js",
+    "main.js": "/veterans-capdev-program-budget/static/js/main.8d18eaff.js",
     "index.html": "/veterans-capdev-program-budget/index.html",
     "main.9703c7af.css.map": "/veterans-capdev-program-budget/static/css/main.9703c7af.css.map",
-    "main.c2966dab.js.map": "/veterans-capdev-program-budget/static/js/main.c2966dab.js.map"
+    "main.8d18eaff.js.map": "/veterans-capdev-program-budget/static/js/main.8d18eaff.js.map"
   },
   "entrypoints": [
     "static/css/main.9703c7af.css",
-    "static/js/main.c2966dab.js"
+    "static/js/main.8d18eaff.js"
   ]
 }
