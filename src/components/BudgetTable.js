@@ -22,13 +22,13 @@ const BudgetTable = () => {
         { id: 5, description: 'Юрист', unit: 'День', quantity: 8, salary: '-', percentage: '-', totalUSD: 1000, totalUAH: 42000 }
       ],
       programStageCosts: [
-        { id: 6, description: 'Етап 1: Підготовка', stageCost: 5096, totalUSD: 5096, totalUAH: 214032 },
-        { id: 7, description: 'Етап 2: Дослідження + синтез', stageCost: 6136, totalUSD: 6136, totalUAH: 257712 },
-        { id: 8, description: 'Етап 3: Презентація результатів, співтворення стратегії', stageCost: 5304, totalUSD: 5304, totalUAH: 222768 },
-        { id: 9, description: 'Етап 4: Тестування', stageCost: 4056, totalUSD: 4056, totalUAH: 170352 },
-        { id: 10, description: 'Етап 5: Фінальні презентації', stageCost: 1976, totalUSD: 1976, totalUAH: 82992 },
-        { id: 11, description: 'Етап 6: Менторство', stageCost: 1248, totalUSD: 1248, totalUAH: 52416 },
-        { id: 12, description: 'Етап 7: Звітність', stageCost: 1248, totalUSD: 1248, totalUAH: 52416 }
+        { id: 6, description: 'Етап 1: Підготовка', stageCost: 5714.58, totalUSD: 5714.58, totalUAH: 240012 },
+        { id: 7, description: 'Етап 2: Дослідження + синтез', stageCost: 6880.81, totalUSD: 6880.81, totalUAH: 288994 },
+        { id: 8, description: 'Етап 3: Презентація результатів, співтворення стратегії', stageCost: 5947.83, totalUSD: 5947.83, totalUAH: 249809 },
+        { id: 9, description: 'Етап 4: Тестування', stageCost: 4548.34, totalUSD: 4548.34, totalUAH: 191030 },
+        { id: 10, description: 'Етап 5: Фінальні презентації', stageCost: 2215.86, totalUSD: 2215.86, totalUAH: 93066 },
+        { id: 11, description: 'Етап 6: Менторство', stageCost: 1399.49, totalUSD: 1399.49, totalUAH: 58779 },
+        { id: 12, description: 'Етап 7: Звітність', stageCost: 1399.49, totalUSD: 1399.49, totalUAH: 58779 }
       ],
       expertsCosts: [
         { id: 13, description: 'Експерт з доступності (урбан дизайнер)', unit: 'Година', unitCost: 100, quantity: 11.5, totalUSD: 1150, totalUAH: 48300 },
